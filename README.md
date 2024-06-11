@@ -1,4 +1,4 @@
-https://vercel.com/vinayakmittal23s-projects/todo-app/HhZn1j3w2jbCoC5wDoctZxsJmjiT
+https://todo-jwrdz6sk5-vinayakmittal23s-projects.vercel.app/
 
 
 # React + Vite
